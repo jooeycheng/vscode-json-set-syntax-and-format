@@ -2,7 +2,7 @@
 
 Provides a single command to set active tab's language to JSON and format it.
 
-![Demo GIF](assets/demo.gif)
+![Demo GIF](https://raw.githubusercontent.com/jooeycheng/vscode-json-set-syntax-and-format/master/assets/demo.gif)
 
 ## Why?
 
