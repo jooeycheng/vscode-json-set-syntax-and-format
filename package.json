@@ -13,7 +13,13 @@
 		"vscode": "^1.55.0"
 	},
 	"categories": [
-		"Other"
+		"Formatters"
+	],
+	"icon": "assets/icon.png",
+	"keywords": [
+		"json",
+		"json syntax",
+		"json format"
 	],
 	"activationEvents": [
 		"onCommand:json-set-syntax-and-format.run"

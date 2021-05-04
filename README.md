@@ -2,7 +2,7 @@
 
 Provides a single command to set active tab's language to JSON and format it.
 
-![Demo GIF](static/demo.gif)
+![Demo GIF](assets/demo.gif)
 
 ## Why?
 

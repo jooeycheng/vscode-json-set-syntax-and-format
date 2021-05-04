@@ -15,5 +15,6 @@
 !src
 !src/**
 
-!static
-!static/**
+!assets
+!assets/*.gif
+!assets/*.png
