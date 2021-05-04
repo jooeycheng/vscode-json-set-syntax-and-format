@@ -2,7 +2,7 @@
 	"name": "json-set-syntax-and-format",
 	"displayName": "JSON Set Syntax & Format",
 	"description": "Sets active file syntax to JSON then formats it, all in one command.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "jooeycheng",
 	"repository": {
 		"type": "git",
