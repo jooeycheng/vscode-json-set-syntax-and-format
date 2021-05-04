@@ -2,7 +2,12 @@
 	"name": "json-set-syntax-and-format",
 	"displayName": "JSON Set Syntax & Format",
 	"description": "Sets active file syntax to JSON then formats it, all in one command.",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"publisher": "jooeycheng",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jooeycheng/vscode-json-set-syntax-and-format.git"
+	},
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.55.0"
