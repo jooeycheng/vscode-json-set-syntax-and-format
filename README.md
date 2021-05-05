@@ -1,4 +1,4 @@
-# [[VS Code] JSON: Set Syntax and Format](https://marketplace.visualstudio.com/items?itemName=jooeycheng.json-set-syntax-and-format)
+# [VS Code] JSON: Set Syntax and Format
 
 Provides a single command to set active tab's language to JSON and format it.
 
